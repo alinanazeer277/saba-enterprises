@@ -5,3 +5,5 @@ web commands
 plannings
 sofosticated 
 branches
+investment
+partnership
